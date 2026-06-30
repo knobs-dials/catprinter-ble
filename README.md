@@ -9,7 +9,7 @@ This prints images and text to a cat-shaped printer.
 Tested 
 * on win, lin, and osx; 
 * towards the printer I have, which reports as an MX06 (and the bluetooth code this is based on mentions a handful of others)
-  * Note that there are models that are classic bluetooth only -- for which python support is awkward. I'm working on options, but in practice you might buy one that this software cannot talk to, and it's hard to tell that before buying 
+  * Note that there are models that are classic bluetooth only -- for which python support is awkward. I'm working on options (watch [this issue](https://github.com/knobs-dials/catprinter-ble/issues/1) to see if I ever do), but in practice you might buy one that this software cannot talk to, and it's hard to tell that before buying 
 * not yet tested on all browsers.
 
 
